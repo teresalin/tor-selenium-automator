@@ -1,0 +1,4 @@
+selenium==4.24.0
+stem==1.8.2
+Unidecode==1.3.8
+webdriver-manager==4.0.2

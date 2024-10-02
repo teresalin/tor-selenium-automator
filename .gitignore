@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Python virtual environment
+.venv/
+__pycache__/
+
+# Python cache and compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables and secrets
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE/editor configuration files
+.vscode/
+.idea/
+
+# Ignore npm related lock files if not required for sharing
+package-lock.json
+yarn.lock
+
+# Ignore local settings
+*.local
